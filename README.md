@@ -2,7 +2,7 @@
 
 Submitted by: **Aidan Jiang**
 
-**BackgrounChanger** is an app that with a click of a button the background changes to a random color 
+**BackgroundChanger** is an app that with a click of a button the background changes to a random color 
 
 Time spent: 4 hours spent in total
 
@@ -15,9 +15,7 @@ The following **required** functionality is completed:
  
 ## Video Walkthrough
 
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
-
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
+(https://www.loom.com/share/cfb8b619a4e145d7a38fb6112d6f38d3)
 
 ## App Brainstorming (Step 4)
 -Make it so the user can input what color they want it to be
@@ -41,16 +39,21 @@ Difficulty getting the assistant to work. It would pop up AppDelegates instead o
     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
     See the License for the specific language governing permissions and
     limitations under the License.
+
 ##App Brainstorming
+
 -Clash Royale
     -Animation when opening up the App
     -Swiping to change current menu
+    
 -Instagram
     -Animation for instagram story when being opened
     -The ability to change background in a groupchat
+    
 -TikTok
     -Keeping track of streak with someone
     -The heart affect whe double tapping
+    
 -My app
     -I want to create a gym apop that is able to keep track of your workouts and what days of the week they are. It will also be able to keep track of the foods you eaten. The app should also give you a notification on when you should workout. 
 
